@@ -1,0 +1,32 @@
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  color: #000;
+  font-family: 'Open Sans', sans-serif;
+}
+
+img {
+  max-width: 100%;
+}
+
+header {
+  background: #ee7f3c;
+  color: #fff;
+}
+
+header img {
+  height: 5em;
+  padding: 1em;
+}
+
+canvas {
+  width: 500px;
+  height: 300px;
+  margin: auto;
+  display: block;
+  border: 2px solid black;
+}
+
